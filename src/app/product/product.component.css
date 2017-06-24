@@ -1,0 +1,4 @@
+.product-box { border: solid 1px #ddd; box-shadow: 2px 2px 2px rgba(0,0,0,0.2); }
+.product-detail { padding: 5px; }
+.product-img { height: 200px; background-size: cover; background-repeat: no-repeat; }
+.product-price { text-align: right; }
